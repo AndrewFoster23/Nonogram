@@ -11,8 +11,11 @@ When you complete the puzzle (Occurs when you select every black square in the p
 In the main loop at the bottom you can uncomment the code to choose which way you want to play.
 
 Different game modes:
+
 -Line 223, change the puzzle array to one of your own creation (similar to the sailboat example on line 201)
+
 -Line 224, generate a random puzzle and change the difficulty on line 216
+
 -Line 225, custom generate your own puzzle with a more customizable function. Put your max limit first, and then the number that would include all of the numbers below it that you want to be black (This is still random, but gives a higher or lower amount of black squares depending on the numbers you enter
 -Line 226, this one randomly selects a puzzle out of the collection list on line 214. You can add your own puzzles to this array and then play them randomly
 
