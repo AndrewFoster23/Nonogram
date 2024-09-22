@@ -17,6 +17,7 @@ Different game modes:
 -Line 224, generate a random puzzle and change the difficulty on line 216
 
 -Line 225, custom generate your own puzzle with a more customizable function. Put your max limit first, and then the number that would include all of the numbers below it that you want to be black (This is still random, but gives a higher or lower amount of black squares depending on the numbers you enter
+
 -Line 226, this one randomly selects a puzzle out of the collection list on line 214. You can add your own puzzles to this array and then play them randomly
 
 This project was a way for me to be creative and build a fun working game that I love to play. Enjoy!!
